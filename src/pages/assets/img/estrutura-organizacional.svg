@@ -1,0 +1,696 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1123.967" height="704.396" viewBox="0 0 1123.967 704.396">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_1" data-name="Caminho 1" d="M709.1,144.547H580.782a8.275,8.275,0,0,1-8.227-8.323V89.414a8.275,8.275,0,0,1,8.227-8.323H709.1a8.275,8.275,0,0,1,8.226,8.323v46.81a8.275,8.275,0,0,1-8.226,8.323" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#001c3a"/>
+      <stop offset="1" stop-color="#248ac9"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_3" data-name="Caminho 3" d="M708.992,139.062H581.563a8.338,8.338,0,0,1-8.338-8.338V83.944a8.342,8.342,0,0,1,8.338-8.34H708.992a8.342,8.342,0,0,1,8.338,8.34v46.78a8.338,8.338,0,0,1-8.338,8.338" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.423" y1="1.397" x2="0.577" y2="-0.397" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#c7c7c8"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Caminho_4" data-name="Caminho 4" d="M691.194,139.062H581.573a8.327,8.327,0,0,1-6.161-2.694c11.462-.381,24.216-.592,37.666-.592C646.7,135.776,675.955,137.1,691.194,139.062Z" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="116.147" height="3.495" transform="translate(575.147 135.746)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 117 5">
+      <image width="117" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAFCAYAAAB7JqN9AAAAAXNSR0IArs4c6QAAAZxJREFUSA3tVFtywyAMDJlcrEfrTXsS011pJRamafLdKR+2pH0gwGbMOW//42/twAPLeetUNxI+hPNbcHzOa+0SuSvbowPbPJW0WiaRMx6yinqztBrPU7i85+2qRD6ygBYRfAOuNYyhXD5cTenRQmoTWz0VlwTFopgUkO1TLEekkK2Y0FXp4Rey21XTcL6PexZfP2sPg4mFvj1ecN3pV+pGxOy1yKiP3s8MPE/h8iYmM77gIwsEiJizMLQ12MSlJRegFVIbT+spc8dKUm/u36g5mMSQD+LhROT3glTfYTtGAJal7bvP3ZSLXeNs1rHFQlQNWrF9GzM1wvNAQkpKHQ4LZx6kni6mbR9ipa2p6mCli1c3Zj0ID1nh0DrfsaKIIdrzIzgPtnU/GHmJ1+9nk18EbLB65s7gYlq/PTDHebB9vZCLL761Pg+74d9g3irlKQQWM7VKM2dOU4r5KeOOCi0Rz9uwLOEwIJzwjTf4SINm3PhbeUXG38oeslfaJ3mtyPuPhbKg4RjtOWD5ZDh7p2hJWYTRvv93tBTX8Nc3c6eozT0UKKIAAAAASUVORK5CYII="/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <path id="Caminho_5" data-name="Caminho 5" d="M880.577,257.182H752.255a8.275,8.275,0,0,1-8.227-8.322V202.049a8.274,8.274,0,0,1,8.227-8.322H880.577a8.274,8.274,0,0,1,8.226,8.322V248.86a8.275,8.275,0,0,1-8.226,8.322" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Caminho_7" data-name="Caminho 7" d="M880.465,251.7H753.036a8.339,8.339,0,0,1-8.338-8.338V196.58a8.342,8.342,0,0,1,8.338-8.34H880.465a8.342,8.342,0,0,1,8.338,8.34v46.78a8.338,8.338,0,0,1-8.338,8.338" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.423" y1="1.397" x2="0.577" y2="-0.397" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-7">
+      <path id="Caminho_8" data-name="Caminho 8" d="M548.265,257.182H419.944a8.276,8.276,0,0,1-8.228-8.322V202.049a8.275,8.275,0,0,1,8.228-8.322H548.265a8.275,8.275,0,0,1,8.227,8.322V248.86a8.275,8.275,0,0,1-8.227,8.322" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Caminho_10" data-name="Caminho 10" d="M548.154,251.7H420.725a8.338,8.338,0,0,1-8.338-8.338V196.58a8.342,8.342,0,0,1,8.338-8.34H548.154a8.342,8.342,0,0,1,8.338,8.34v46.78a8.338,8.338,0,0,1-8.338,8.338" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Caminho_11" data-name="Caminho 11" d="M713.627,257.182H585.3a8.275,8.275,0,0,1-8.227-8.322V202.049a8.274,8.274,0,0,1,8.227-8.322H713.627a8.274,8.274,0,0,1,8.226,8.322V248.86a8.275,8.275,0,0,1-8.226,8.322" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Caminho_13" data-name="Caminho 13" d="M713.516,251.7H586.086a8.338,8.338,0,0,1-8.337-8.338V196.58a8.341,8.341,0,0,1,8.337-8.34h127.43a8.341,8.341,0,0,1,8.337,8.34v46.78a8.338,8.338,0,0,1-8.337,8.338" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Caminho_14" data-name="Caminho 14" d="M701.906,405.237H588.17a7.335,7.335,0,0,1-7.293-7.377V374.169a7.335,7.335,0,0,1,7.293-7.377H701.906a7.335,7.335,0,0,1,7.292,7.377V397.86a7.335,7.335,0,0,1-7.292,7.377" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Caminho_16" data-name="Caminho 16" d="M701.808,399.561H588.862a7.391,7.391,0,0,1-7.39-7.39v-22.85a7.394,7.394,0,0,1,7.39-7.392H701.808a7.394,7.394,0,0,1,7.39,7.392v22.85a7.391,7.391,0,0,1-7.39,7.39" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-10" x1="0.465" y1="1.415" x2="0.535" y2="-0.415" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-13">
+      <path id="Caminho_17" data-name="Caminho 17" d="M701.906,344.36H588.17a7.334,7.334,0,0,1-7.293-7.376V313.293a7.335,7.335,0,0,1,7.293-7.377H701.906a7.335,7.335,0,0,1,7.292,7.377v23.691a7.334,7.334,0,0,1-7.292,7.376" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Caminho_19" data-name="Caminho 19" d="M701.808,338.685H588.862a7.391,7.391,0,0,1-7.39-7.391V308.445a7.393,7.393,0,0,1,7.39-7.392H701.808a7.393,7.393,0,0,1,7.39,7.392v22.849a7.391,7.391,0,0,1-7.39,7.391" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-12" x1="0.465" y1="1.415" x2="0.535" y2="-0.415" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-15">
+      <path id="Caminho_20" data-name="Caminho 20" d="M701.172,688.435H588.924a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H701.172a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Caminho_22" data-name="Caminho 22" d="M701.074,682.519H589.608a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707H701.074a7.511,7.511,0,0,1,7.294,7.707v23.82a7.507,7.507,0,0,1-7.294,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-14" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-17">
+      <path id="Caminho_23" data-name="Caminho 23" d="M847.287,688.435H735.039a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H847.287a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Caminho_25" data-name="Caminho 25" d="M847.19,682.519H735.723a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707H847.19a7.511,7.511,0,0,1,7.293,7.707v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-16" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-19">
+      <path id="Caminho_26" data-name="Caminho 26" d="M1148.586,688.435H1036.338a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69h112.248a7.455,7.455,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <path id="Caminho_28" data-name="Caminho 28" d="M1148.489,682.519H1037.022a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707h111.467a7.511,7.511,0,0,1,7.293,7.707v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Caminho_29" data-name="Caminho 29" d="M999.714,688.435H887.466a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H999.714a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-22">
+      <path id="Caminho_31" data-name="Caminho 31" d="M999.616,682.519H888.15a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707H999.616a7.511,7.511,0,0,1,7.294,7.707v23.82a7.507,7.507,0,0,1-7.294,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-20" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-23">
+      <path id="Caminho_32" data-name="Caminho 32" d="M555.295,688.435H443.047a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H555.295a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <path id="Caminho_34" data-name="Caminho 34" d="M555.2,682.519H443.731a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707H555.2a7.511,7.511,0,0,1,7.293,7.707v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-22" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-25">
+      <path id="Caminho_35" data-name="Caminho 35" d="M407.155,688.435H294.908a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H407.155a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path id="Caminho_37" data-name="Caminho 37" d="M407.058,682.519H295.591a7.507,7.507,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.707H407.058a7.511,7.511,0,0,1,7.294,7.707v23.82a7.507,7.507,0,0,1-7.294,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path id="Caminho_38" data-name="Caminho 38" d="M153.457,499.973H40.522a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H153.457a7.5,7.5,0,0,1,7.241,7.737v24.848a7.5,7.5,0,0,1-7.241,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-28">
+      <path id="Caminho_40" data-name="Caminho 40" d="M153.36,494.02H41.209a7.553,7.553,0,0,1-7.338-7.751V462.3a7.556,7.556,0,0,1,7.338-7.753H153.36A7.556,7.556,0,0,1,160.7,462.3v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-26" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-29">
+      <path id="Caminho_41" data-name="Caminho 41" d="M302.505,499.973H189.569a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H302.505a7.5,7.5,0,0,1,7.241,7.737v24.848a7.5,7.5,0,0,1-7.241,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <path id="Caminho_43" data-name="Caminho 43" d="M302.407,494.02H190.257a7.553,7.553,0,0,1-7.338-7.751V462.3a7.556,7.556,0,0,1,7.338-7.753h112.15a7.556,7.556,0,0,1,7.339,7.753v23.966a7.553,7.553,0,0,1-7.339,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-31">
+      <path id="Caminho_44" data-name="Caminho 44" d="M600.6,499.973H487.665a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H600.6a7.5,7.5,0,0,1,7.24,7.737v24.848a7.5,7.5,0,0,1-7.24,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-32">
+      <path id="Caminho_46" data-name="Caminho 46" d="M600.5,494.02H488.353a7.553,7.553,0,0,1-7.338-7.751V462.3a7.556,7.556,0,0,1,7.338-7.753H600.5a7.556,7.556,0,0,1,7.338,7.753v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-33">
+      <path id="Caminho_47" data-name="Caminho 47" d="M451.553,499.973H338.617a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H451.553a7.5,7.5,0,0,1,7.24,7.737v24.848a7.5,7.5,0,0,1-7.24,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-34">
+      <path id="Caminho_49" data-name="Caminho 49" d="M451.455,494.02H339.3a7.553,7.553,0,0,1-7.338-7.751V462.3a7.556,7.556,0,0,1,7.338-7.753h112.15a7.556,7.556,0,0,1,7.338,7.753v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-32" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-35">
+      <path id="Caminho_50" data-name="Caminho 50" d="M803.581,499.973H690.645a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H803.581a7.5,7.5,0,0,1,7.24,7.737v24.848a7.5,7.5,0,0,1-7.24,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-33" x1="0.132" y1="0.5" x2="1.034" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee8000"/>
+      <stop offset="0.183" stop-color="#ef8500"/>
+      <stop offset="0.417" stop-color="#f29500"/>
+      <stop offset="0.677" stop-color="#f6af00"/>
+      <stop offset="0.956" stop-color="#fdd300"/>
+      <stop offset="1" stop-color="#ffda00"/>
+    </linearGradient>
+    <clipPath id="clip-path-36">
+      <path id="Caminho_52" data-name="Caminho 52" d="M803.483,494.02H691.333a7.553,7.553,0,0,1-7.338-7.751V462.3a7.556,7.556,0,0,1,7.338-7.753h112.15a7.556,7.556,0,0,1,7.338,7.753v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-37">
+      <path id="Caminho_53" data-name="Caminho 53" d="M952.629,499.973H839.693a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737H952.629a7.5,7.5,0,0,1,7.24,7.737v24.848a7.5,7.5,0,0,1-7.24,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-38">
+      <path id="Caminho_55" data-name="Caminho 55" d="M952.531,494.02H840.381a7.553,7.553,0,0,1-7.339-7.751V462.3a7.556,7.556,0,0,1,7.339-7.753h112.15a7.556,7.556,0,0,1,7.338,7.753v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-39">
+      <path id="Caminho_56" data-name="Caminho 56" d="M1101.677,499.973H988.741a7.5,7.5,0,0,1-7.241-7.737V467.388a7.5,7.5,0,0,1,7.241-7.737h112.936a7.5,7.5,0,0,1,7.24,7.737v24.848a7.5,7.5,0,0,1-7.24,7.737" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-40">
+      <path id="Caminho_58" data-name="Caminho 58" d="M1101.579,494.02H989.429a7.553,7.553,0,0,1-7.339-7.751V462.3a7.556,7.556,0,0,1,7.339-7.753h112.15a7.556,7.556,0,0,1,7.338,7.753v23.966a7.553,7.553,0,0,1-7.338,7.751" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-41">
+      <path id="Caminho_59" data-name="Caminho 59" d="M326.149,596.9H213.9a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.455,7.455,0,0,1,7.2-7.69H326.149a7.455,7.455,0,0,1,7.2,7.69v24.7a7.456,7.456,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-42">
+      <path id="Caminho_61" data-name="Caminho 61" d="M326.052,590.982H214.585a7.507,7.507,0,0,1-7.293-7.7v-23.82a7.51,7.51,0,0,1,7.293-7.706H326.052a7.51,7.51,0,0,1,7.293,7.706v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-40" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-43">
+      <path id="Caminho_62" data-name="Caminho 62" d="M474.288,596.9H362.041a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.455,7.455,0,0,1,7.2-7.69H474.288a7.456,7.456,0,0,1,7.2,7.69v24.7a7.456,7.456,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-44">
+      <path id="Caminho_64" data-name="Caminho 64" d="M474.191,590.982H362.724a7.507,7.507,0,0,1-7.293-7.7v-23.82a7.51,7.51,0,0,1,7.293-7.706H474.191a7.511,7.511,0,0,1,7.294,7.706v23.82a7.507,7.507,0,0,1-7.294,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-45">
+      <path id="Caminho_65" data-name="Caminho 65" d="M620.891,596.9H508.643a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.455,7.455,0,0,1,7.2-7.69H620.891a7.455,7.455,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-46">
+      <path id="Caminho_67" data-name="Caminho 67" d="M620.794,590.982H509.327a7.508,7.508,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.706H620.794a7.51,7.51,0,0,1,7.293,7.706v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-47">
+      <path id="Caminho_68" data-name="Caminho 68" d="M778.562,596.9H666.314a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.455,7.455,0,0,1,7.2-7.69H778.562a7.455,7.455,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-48">
+      <path id="Caminho_70" data-name="Caminho 70" d="M778.465,590.982H667a7.507,7.507,0,0,1-7.294-7.7v-23.82A7.511,7.511,0,0,1,667,551.752H778.465a7.51,7.51,0,0,1,7.293,7.706v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-49">
+      <path id="Caminho_71" data-name="Caminho 71" d="M926.7,596.9H814.454a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.455,7.455,0,0,1,7.2-7.69H926.7a7.456,7.456,0,0,1,7.2,7.69v24.7a7.456,7.456,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-50">
+      <path id="Caminho_73" data-name="Caminho 73" d="M926.6,590.982H815.137a7.507,7.507,0,0,1-7.293-7.7v-23.82a7.51,7.51,0,0,1,7.293-7.706H926.6a7.511,7.511,0,0,1,7.294,7.706v23.82a7.507,7.507,0,0,1-7.294,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-51">
+      <path id="Caminho_74" data-name="Caminho 74" d="M260.4,688.435H148.15a7.455,7.455,0,0,1-7.2-7.689v-24.7a7.456,7.456,0,0,1,7.2-7.69H260.4a7.456,7.456,0,0,1,7.2,7.69v24.7a7.455,7.455,0,0,1-7.2,7.689" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-52">
+      <path id="Caminho_76" data-name="Caminho 76" d="M260.3,682.519H148.834a7.508,7.508,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.706H260.3a7.51,7.51,0,0,1,7.293,7.706v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-53">
+      <path id="Caminho_77" data-name="Caminho 77" d="M1074.841,596.9H962.593a7.456,7.456,0,0,1-7.2-7.69v-24.7a7.456,7.456,0,0,1,7.2-7.691h112.248a7.456,7.456,0,0,1,7.2,7.691v24.7a7.456,7.456,0,0,1-7.2,7.69" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-54">
+      <path id="Caminho_79" data-name="Caminho 79" d="M1074.744,590.982H963.277a7.508,7.508,0,0,1-7.294-7.7v-23.82a7.511,7.511,0,0,1,7.294-7.706h111.467a7.51,7.51,0,0,1,7.293,7.706v23.82a7.507,7.507,0,0,1-7.293,7.7" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-52" x1="0.461" y1="1.413" x2="0.539" y2="-0.413" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Grupo_115" data-name="Grupo 115" transform="translate(-33.281 -73.715)">
+    <g id="Grupo_109" data-name="Grupo 109">
+      <line id="Linha_1" data-name="Linha 1" y2="512.289" transform="translate(645.781 142.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="4.697"/>
+      <line id="Linha_2" data-name="Linha 2" y1="28.139" transform="translate(484.661 249.27)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <line id="Linha_3" data-name="Linha 3" y1="28.139" transform="translate(805.635 249.27)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <line id="Linha_4" data-name="Linha 4" x1="320.973" transform="translate(484.659 277.407)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <line id="Linha_5" data-name="Linha 5" y2="28.139" transform="translate(805.635 163.648)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <line id="Linha_6" data-name="Linha 6" y2="28.139" transform="translate(484.661 163.648)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <line id="Linha_7" data-name="Linha 7" x2="320.973" transform="translate(484.659 163.646)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.772"/>
+      <g id="Grupo_2" data-name="Grupo 2">
+        <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path)">
+          <rect id="Retângulo_1" data-name="Retângulo 1" width="144.776" height="63.456" transform="translate(572.555 81.091)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_2" data-name="Caminho 2" d="M710.684,137.174H580.877a8.322,8.322,0,0,1-8.322-8.323V82.04a8.325,8.325,0,0,1,8.322-8.325H710.684a8.325,8.325,0,0,1,8.322,8.325v46.811a8.322,8.322,0,0,1-8.322,8.323" fill="#fff"/>
+      <g id="Grupo_4" data-name="Grupo 4">
+        <g id="Grupo_3" data-name="Grupo 3" clip-path="url(#clip-path-2)">
+          <rect id="Retângulo_2" data-name="Retângulo 2" width="144.105" height="63.458" transform="translate(573.225 75.604)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Grupo_8" data-name="Grupo 8">
+        <g id="Grupo_7" data-name="Grupo 7" clip-path="url(#clip-path-3)">
+          <g id="Grupo_6" data-name="Grupo 6">
+            <g id="Grupo_5" data-name="Grupo 5" clip-path="url(#clip-path-4)">
+              <rect id="Retângulo_3" data-name="Retângulo 3" width="116.147" height="3.495" transform="translate(575.147 135.746)" fill="url(#pattern)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="C" transform="translate(601.999 103.776)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONGRES" transform="translate(610.977 103.776)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONGRES</tspan></text>
+      <text id="SO" transform="translate(667.912 103.776)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">SO</tspan></text>
+      <text id="UNIVERSIT" transform="translate(591.205 121.868)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">UNIVERSIT</tspan></text>
+      <text id="ÁRIO" transform="translate(663.684 121.868)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO</tspan></text>
+      <g id="Grupo_10" data-name="Grupo 10">
+        <g id="Grupo_9" data-name="Grupo 9" clip-path="url(#clip-path-5)">
+          <rect id="Retângulo_5" data-name="Retângulo 5" width="144.776" height="63.456" transform="translate(744.028 193.727)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_6" data-name="Caminho 6" d="M882.157,249.809H752.35a8.322,8.322,0,0,1-8.322-8.322V194.676a8.325,8.325,0,0,1,8.322-8.325H882.157a8.325,8.325,0,0,1,8.322,8.325v46.811a8.322,8.322,0,0,1-8.322,8.322" fill="#fff"/>
+      <g id="Grupo_12" data-name="Grupo 12">
+        <g id="Grupo_11" data-name="Grupo 11" clip-path="url(#clip-path-6)">
+          <rect id="Retângulo_6" data-name="Retângulo 6" width="144.105" height="63.458" transform="translate(744.698 188.24)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <text id="C-2" data-name="C" transform="translate(786.535 216.411)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONCUR" transform="translate(795.512 216.411)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONCUR</tspan></text>
+      <text id="C-3" data-name="C" transform="translate(755.612 233.486)" fill="#17100d" font-size="12.434" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONSELHO_CURADOR" data-name="ONSELHO CURADOR" transform="translate(762.923 233.486)" fill="#17100d" font-size="12.434" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONSELHO CURADOR</tspan></text>
+      <g id="Grupo_14" data-name="Grupo 14">
+        <g id="Grupo_13" data-name="Grupo 13" clip-path="url(#clip-path-7)">
+          <rect id="Retângulo_7" data-name="Retângulo 7" width="144.775" height="63.456" transform="translate(411.716 193.727)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_9" data-name="Caminho 9" d="M549.845,249.809H420.039a8.323,8.323,0,0,1-8.323-8.322V194.676a8.326,8.326,0,0,1,8.323-8.325H549.845a8.326,8.326,0,0,1,8.323,8.325v46.811a8.323,8.323,0,0,1-8.323,8.322" fill="#fff"/>
+      <g id="Grupo_16" data-name="Grupo 16">
+        <g id="Grupo_15" data-name="Grupo 15" clip-path="url(#clip-path-8)">
+          <rect id="Retângulo_8" data-name="Retângulo 8" width="144.105" height="63.458" transform="translate(412.387 188.24)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <text id="C-4" data-name="C" transform="translate(456.17 213.528)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONEPE" transform="translate(465.148 213.528)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONEPE</tspan></text>
+      <text id="C-5" data-name="C" transform="translate(432.502 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONSELHO_DE_ENSINO" data-name="ONSELHO DE ENSINO" transform="translate(438.42 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONSELHO DE ENSINO</tspan></text>
+      <text id="_" data-name=", " transform="translate(533.423 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">, </tspan></text>
+      <text id="PESQUISA_E_EXTENSÃ" data-name="PESQUISA E EXTENSÃ" transform="translate(432.488 242.918)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PESQUISA E EXTENSÃ</tspan></text>
+      <text id="O" transform="translate(529.06 242.918)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <g id="Grupo_18" data-name="Grupo 18">
+        <g id="Grupo_17" data-name="Grupo 17" clip-path="url(#clip-path-9)">
+          <rect id="Retângulo_9" data-name="Retângulo 9" width="144.776" height="63.456" transform="translate(577.078 193.727)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_12" data-name="Caminho 12" d="M715.207,249.809H585.4a8.323,8.323,0,0,1-8.323-8.322V194.676a8.326,8.326,0,0,1,8.323-8.325H715.207a8.326,8.326,0,0,1,8.323,8.325v46.811a8.323,8.323,0,0,1-8.323,8.322" fill="#fff"/>
+      <g id="Grupo_20" data-name="Grupo 20">
+        <g id="Grupo_19" data-name="Grupo 19" clip-path="url(#clip-path-10)">
+          <rect id="Retângulo_10" data-name="Retângulo 10" width="144.105" height="63.458" transform="translate(577.749 188.24)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <text id="C-6" data-name="C" transform="translate(617.478 213.528)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONSUNI" transform="translate(626.455 213.528)" fill="#17100d" font-size="15.268" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONSUNI</tspan></text>
+      <text id="C-7" data-name="C" transform="translate(588.48 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="ONSELHO_UNIVERSIT" data-name="ONSELHO UNIVERSIT" transform="translate(594.397 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ONSELHO UNIVERSIT</tspan></text>
+      <text id="ÁRIO-2" data-name="ÁRIO" transform="translate(688.353 230.993)" fill="#17100d" font-size="10.064" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO</tspan></text>
+      <g id="Grupo_22" data-name="Grupo 22">
+        <g id="Grupo_21" data-name="Grupo 21" clip-path="url(#clip-path-11)">
+          <rect id="Retângulo_11" data-name="Retângulo 11" width="128.32" height="38.444" transform="translate(580.877 366.792)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_15" data-name="Caminho 15" d="M703.307,399.548H588.254a7.379,7.379,0,0,1-7.377-7.377V367.634a7.381,7.381,0,0,1,7.377-7.38H703.307a7.38,7.38,0,0,1,7.376,7.38v24.537a7.377,7.377,0,0,1-7.376,7.377" fill="#fff"/>
+      <g id="Grupo_24" data-name="Grupo 24">
+        <g id="Grupo_23" data-name="Grupo 23" clip-path="url(#clip-path-12)">
+          <rect id="Retângulo_12" data-name="Retângulo 12" width="127.726" height="37.632" transform="translate(581.472 361.929)" fill="url(#linear-gradient-10)"/>
+        </g>
+      </g>
+      <g id="Grupo_26" data-name="Grupo 26">
+        <g id="Grupo_25" data-name="Grupo 25" clip-path="url(#clip-path-13)">
+          <rect id="Retângulo_13" data-name="Retângulo 13" width="128.32" height="38.444" transform="translate(580.877 305.916)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_18" data-name="Caminho 18" d="M703.307,338.671H588.254a7.378,7.378,0,0,1-7.377-7.377V306.757a7.38,7.38,0,0,1,7.377-7.379H703.307a7.379,7.379,0,0,1,7.376,7.379v24.537a7.376,7.376,0,0,1-7.376,7.377" fill="#fff"/>
+      <g id="Grupo_28" data-name="Grupo 28">
+        <g id="Grupo_27" data-name="Grupo 27" clip-path="url(#clip-path-14)">
+          <rect id="Retângulo_14" data-name="Retângulo 14" width="127.726" height="37.632" transform="translate(581.472 301.053)" fill="url(#linear-gradient-12)"/>
+        </g>
+      </g>
+      <text id="REIT" transform="translate(616.794 326.734)" fill="#17100d" font-size="13.532" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">REIT</tspan></text>
+      <text id="ORIA" transform="translate(643.29 326.734)" fill="#17100d" font-size="13.532" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA</tspan></text>
+      <text id="VICE-REIT" transform="translate(600.657 387.611)" fill="#17100d" font-size="13.532" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">VICE-REIT</tspan></text>
+      <text id="ORIA-2" data-name="ORIA" transform="translate(660.334 387.611)" fill="#17100d" font-size="13.532" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA</tspan></text>
+      <line id="Linha_8" data-name="Linha 8" y2="31.232" transform="translate(1093.2 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_9" data-name="Linha 9" y2="31.232" transform="translate(944.327 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_10" data-name="Linha 10" y2="31.232" transform="translate(791.899 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_11" data-name="Linha 11" y2="31.232" transform="translate(351.766 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_12" data-name="Linha 12" y2="31.232" transform="translate(499.906 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_13" data-name="Linha 13" y2="31.232" transform="translate(205.008 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_14" data-name="Linha 14" x2="888.185" transform="translate(205.006 615.827)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <g id="Grupo_30" data-name="Grupo 30">
+        <g id="Grupo_29" data-name="Grupo 29" clip-path="url(#clip-path-15)">
+          <rect id="Retângulo_15" data-name="Retângulo 15" width="126.641" height="40.077" transform="translate(581.727 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_21" data-name="Caminho 21" d="M702.554,682.505H589.007a7.5,7.5,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H702.554a7.5,7.5,0,0,1,7.28,7.692v25.58a7.5,7.5,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_32" data-name="Grupo 32">
+        <g id="Grupo_31" data-name="Grupo 31" clip-path="url(#clip-path-16)">
+          <rect id="Retângulo_16" data-name="Retângulo 16" width="126.054" height="39.23" transform="translate(582.314 643.288)" fill="url(#linear-gradient-14)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT" data-name="CAMPUS UNIVERSIT" transform="translate(589.546 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_" data-name="ÁRIO " transform="translate(679.112 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_NO" data-name="DE NO" transform="translate(597.325 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE NO</tspan></text>
+      <text id="V" transform="translate(625.87 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">V</tspan></text>
+      <text id="A_XA" data-name="A XA" transform="translate(631.968 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A XA</tspan></text>
+      <text id="V-2" data-name="V" transform="translate(653.058 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">V</tspan></text>
+      <text id="ANTINA" transform="translate(659.156 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ANTINA</tspan></text>
+      <g id="Grupo_34" data-name="Grupo 34">
+        <g id="Grupo_33" data-name="Grupo 33" clip-path="url(#clip-path-17)">
+          <rect id="Retângulo_17" data-name="Retângulo 17" width="126.641" height="40.077" transform="translate(727.842 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_24" data-name="Caminho 24" d="M848.669,682.505H735.122a7.5,7.5,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H848.669a7.5,7.5,0,0,1,7.28,7.692v25.58a7.5,7.5,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_36" data-name="Grupo 36">
+        <g id="Grupo_35" data-name="Grupo 35" clip-path="url(#clip-path-18)">
+          <rect id="Retângulo_18" data-name="Retângulo 18" width="126.054" height="39.23" transform="translate(728.429 643.288)" fill="url(#linear-gradient-16)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-2" data-name="CAMPUS UNIVERSIT" transform="translate(735.66 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_2" data-name="ÁRIO " transform="translate(825.227 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_PONTES_E_LA" data-name="DE PONTES E LA" transform="translate(740.117 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE PONTES E LA</tspan></text>
+      <text id="CERD" transform="translate(812.555 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CERD</tspan></text>
+      <text id="A" transform="translate(837.22 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <g id="Grupo_38" data-name="Grupo 38">
+        <g id="Grupo_37" data-name="Grupo 37" clip-path="url(#clip-path-19)">
+          <rect id="Retângulo_19" data-name="Retângulo 19" width="126.641" height="40.077" transform="translate(1029.142 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_27" data-name="Caminho 27" d="M1149.968,682.505H1036.422a7.494,7.494,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692h113.546a7.5,7.5,0,0,1,7.28,7.692v25.58a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_40" data-name="Grupo 40">
+        <g id="Grupo_39" data-name="Grupo 39" clip-path="url(#clip-path-20)">
+          <rect id="Retângulo_20" data-name="Retângulo 20" width="126.054" height="39.23" transform="translate(1029.728 643.288)" fill="url(#linear-gradient-16)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-3" data-name="CAMPUS UNIVERSIT" transform="translate(1036.96 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_3" data-name="ÁRIO " transform="translate(1126.527 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_T" data-name="DE T" transform="translate(1040.045 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE T</tspan></text>
+      <text id="ANGARÁ_D" data-name="ANGARÁ D" transform="translate(1059.778 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ANGARÁ D</tspan></text>
+      <text id="A_SERRA" data-name="A SERRA" transform="translate(1107.893 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A SERRA</tspan></text>
+      <g id="Grupo_42" data-name="Grupo 42">
+        <g id="Grupo_41" data-name="Grupo 41" clip-path="url(#clip-path-21)">
+          <rect id="Retângulo_21" data-name="Retângulo 21" width="126.641" height="40.077" transform="translate(880.269 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_30" data-name="Caminho 30" d="M1001.1,682.505H887.549a7.5,7.5,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H1001.1a7.5,7.5,0,0,1,7.28,7.692v25.58a7.5,7.5,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_44" data-name="Grupo 44">
+        <g id="Grupo_43" data-name="Grupo 43" clip-path="url(#clip-path-22)">
+          <rect id="Retângulo_22" data-name="Retângulo 22" width="126.054" height="39.23" transform="translate(880.856 643.288)" fill="url(#linear-gradient-20)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-4" data-name="CAMPUS UNIVERSIT" transform="translate(888.088 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_4" data-name="ÁRIO " transform="translate(977.654 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_SINOP" data-name="DE SINOP" transform="translate(922.716 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE SINOP</tspan></text>
+      <g id="Grupo_46" data-name="Grupo 46">
+        <g id="Grupo_45" data-name="Grupo 45" clip-path="url(#clip-path-23)">
+          <rect id="Retângulo_23" data-name="Retângulo 23" width="126.641" height="40.077" transform="translate(435.851 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_33" data-name="Caminho 33" d="M556.677,682.505H443.131a7.5,7.5,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H556.677a7.5,7.5,0,0,1,7.28,7.692v25.58a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_48" data-name="Grupo 48">
+        <g id="Grupo_47" data-name="Grupo 47" clip-path="url(#clip-path-24)">
+          <rect id="Retângulo_24" data-name="Retângulo 24" width="126.054" height="39.23" transform="translate(436.437 643.288)" fill="url(#linear-gradient-22)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-5" data-name="CAMPUS UNIVERSIT" transform="translate(443.669 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_5" data-name="ÁRIO " transform="translate(533.235 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_NO-2" data-name="DE NO" transform="translate(460.297 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE NO</tspan></text>
+      <text id="V-3" data-name="V" transform="translate(488.842 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">V</tspan></text>
+      <text id="A_MUTUM" data-name="A MUTUM" transform="translate(494.94 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A MUTUM</tspan></text>
+      <g id="Grupo_50" data-name="Grupo 50">
+        <g id="Grupo_49" data-name="Grupo 49" clip-path="url(#clip-path-25)">
+          <rect id="Retângulo_25" data-name="Retângulo 25" width="126.641" height="40.077" transform="translate(287.711 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_36" data-name="Caminho 36" d="M408.537,682.505H294.991a7.5,7.5,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H408.537a7.5,7.5,0,0,1,7.281,7.692v25.58a7.5,7.5,0,0,1-7.281,7.69" fill="#fff"/>
+      <g id="Grupo_52" data-name="Grupo 52">
+        <g id="Grupo_51" data-name="Grupo 51" clip-path="url(#clip-path-26)">
+          <rect id="Retângulo_26" data-name="Retângulo 26" width="126.054" height="39.23" transform="translate(288.297 643.288)" fill="url(#linear-gradient-22)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-6" data-name="CAMPUS UNIVERSIT" transform="translate(295.53 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_6" data-name="ÁRIO " transform="translate(385.095 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DO_MÉDIO_ARA" data-name="DO MÉDIO ARA" transform="translate(302.717 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DO MÉDIO ARA</tspan></text>
+      <text id="GUAIA" transform="translate(371.446 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">GUAIA</tspan></text>
+      <line id="Linha_15" data-name="Linha 15" y2="31.232" transform="translate(1019.455 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_16" data-name="Linha 16" y2="31.232" transform="translate(871.314 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_17" data-name="Linha 17" y2="31.232" transform="translate(723.174 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_18" data-name="Linha 18" y2="31.232" transform="translate(418.899 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_19" data-name="Linha 19" y2="31.232" transform="translate(565.503 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_20" data-name="Linha 20" y2="31.232" transform="translate(270.759 523.251)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_21" data-name="Linha 21" x2="748.689" transform="translate(270.757 523.249)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_22" data-name="Linha 22" y2="31.232" transform="translate(1045.95 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_23" data-name="Linha 23" y2="31.232" transform="translate(896.902 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_24" data-name="Linha 24" y2="31.232" transform="translate(747.854 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_25" data-name="Linha 25" y2="31.232" transform="translate(544.873 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_26" data-name="Linha 26" y2="31.232" transform="translate(246.776 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_27" data-name="Linha 27" y2="31.232" transform="translate(395.824 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_28" data-name="Linha 28" y2="31.232" transform="translate(97.727 427.525)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <line id="Linha_29" data-name="Linha 29" x2="948.215" transform="translate(97.726 427.523)" fill="none" stroke="#001c3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.076"/>
+      <g id="Grupo_54" data-name="Grupo 54">
+        <g id="Grupo_53" data-name="Grupo 53" clip-path="url(#clip-path-27)">
+          <rect id="Retângulo_27" data-name="Retângulo 27" width="127.417" height="40.322" transform="translate(33.281 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_39" data-name="Caminho 39" d="M154.848,494.006H40.6a7.54,7.54,0,0,1-7.324-7.737V460.533a7.543,7.543,0,0,1,7.324-7.74H154.848a7.543,7.543,0,0,1,7.325,7.74v25.736a7.54,7.54,0,0,1-7.325,7.737" fill="#fff"/>
+      <g id="Grupo_56" data-name="Grupo 56">
+        <g id="Grupo_55" data-name="Grupo 55" clip-path="url(#clip-path-28)">
+          <rect id="Retângulo_28" data-name="Retângulo 28" width="126.827" height="39.471" transform="translate(33.871 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PRAE" transform="translate(81.871 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PRAE</tspan></text>
+      <text id="PR" transform="translate(37.309 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT" transform="translate(44.846 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_AS" data-name="ORIA DE AS" transform="translate(64.294 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE AS</tspan></text>
+      <text id="SUNT" transform="translate(96.708 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">SUNT</tspan></text>
+      <text id="OS_ESTUD" data-name="OS ESTUD" transform="translate(112.101 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OS ESTUD</tspan></text>
+      <text id="ANTIS" transform="translate(140.683 486.063)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ANTIS</tspan></text>
+      <g id="Grupo_58" data-name="Grupo 58">
+        <g id="Grupo_57" data-name="Grupo 57" clip-path="url(#clip-path-29)">
+          <rect id="Retângulo_29" data-name="Retângulo 29" width="127.417" height="40.322" transform="translate(182.328 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_42" data-name="Caminho 42" d="M303.9,494.006H189.653a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74H303.9a7.543,7.543,0,0,1,7.325,7.74v25.736a7.54,7.54,0,0,1-7.325,7.737" fill="#fff"/>
+      <g id="Grupo_60" data-name="Grupo 60">
+        <g id="Grupo_59" data-name="Grupo 59" clip-path="url(#clip-path-30)">
+          <rect id="Retângulo_30" data-name="Retângulo 30" width="126.827" height="39.471" transform="translate(182.919 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PR-2" data-name="PR" transform="translate(226.014 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="OEC" transform="translate(241.923 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OEC</tspan></text>
+      <text id="PR-3" data-name="PR" transform="translate(188.881 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-2" data-name="Ó-REIT" transform="translate(196.417 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_EXTENSÃ" data-name="ORIA DE EXTENSÃ" transform="translate(215.865 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE EXTENSÃ</tspan></text>
+      <text id="O_E_CUL" data-name="O E CUL" transform="translate(266.931 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O E CUL</tspan></text>
+      <text id="TURA" transform="translate(288.473 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">TURA</tspan></text>
+      <g id="Grupo_62" data-name="Grupo 62">
+        <g id="Grupo_61" data-name="Grupo 61" clip-path="url(#clip-path-31)">
+          <rect id="Retângulo_31" data-name="Retângulo 31" width="127.417" height="40.322" transform="translate(480.424 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_45" data-name="Caminho 45" d="M601.992,494.006H487.749a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74H601.992a7.542,7.542,0,0,1,7.324,7.74v25.736a7.539,7.539,0,0,1-7.324,7.737" fill="#fff"/>
+      <g id="Grupo_64" data-name="Grupo 64">
+        <g id="Grupo_63" data-name="Grupo 63" clip-path="url(#clip-path-32)">
+          <rect id="Retângulo_32" data-name="Retângulo 32" width="126.827" height="39.471" transform="translate(481.015 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PRPPG" transform="translate(523.865 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PRPPG</tspan></text>
+      <text id="PR-4" data-name="PR" transform="translate(501.949 484.043)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-3" data-name="Ó-REIT" transform="translate(509.486 484.043)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_PESQUISA_E_" data-name="ORIA DE PESQUISA E " transform="translate(528.933 484.043)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE PESQUISA E </tspan></text>
+      <text id="PÓS-GRADUA" transform="translate(519.051 491.586)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PÓS-GRADUA</tspan></text>
+      <text id="ÇÃ" transform="translate(558.054 491.586)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÇÃ</tspan></text>
+      <text id="O-2" data-name="O" transform="translate(565.877 491.586)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <g id="Grupo_66" data-name="Grupo 66">
+        <g id="Grupo_65" data-name="Grupo 65" clip-path="url(#clip-path-33)">
+          <rect id="Retângulo_33" data-name="Retângulo 33" width="127.417" height="40.322" transform="translate(331.376 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_48" data-name="Caminho 48" d="M452.944,494.006H338.7a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74H452.944a7.542,7.542,0,0,1,7.324,7.74v25.736a7.539,7.539,0,0,1-7.324,7.737" fill="#fff"/>
+      <g id="Grupo_68" data-name="Grupo 68">
+        <g id="Grupo_67" data-name="Grupo 67" clip-path="url(#clip-path-34)">
+          <rect id="Retângulo_34" data-name="Retângulo 34" width="126.827" height="39.471" transform="translate(331.967 454.55)" fill="url(#linear-gradient-32)"/>
+        </g>
+      </g>
+      <text id="PR-5" data-name="PR" transform="translate(374.211 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="OEG" transform="translate(390.12 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OEG</tspan></text>
+      <text id="PR-6" data-name="PR" transform="translate(334.253 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-4" data-name="Ó-REIT" transform="translate(341.79 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_ENSINO_DE_GRADUA" data-name="ORIA DE ENSINO DE GRADUA" transform="translate(361.238 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE ENSINO DE GRADUA</tspan></text>
+      <text id="ÇÃ-2" data-name="ÇÃ" transform="translate(443.541 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÇÃ</tspan></text>
+      <text id="O-3" data-name="O" transform="translate(451.364 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <g id="Grupo_70" data-name="Grupo 70">
+        <g id="Grupo_69" data-name="Grupo 69" clip-path="url(#clip-path-35)">
+          <rect id="Retângulo_35" data-name="Retângulo 35" width="127.417" height="40.322" transform="translate(683.404 459.651)" fill="url(#linear-gradient-33)"/>
+        </g>
+      </g>
+      <path id="Caminho_51" data-name="Caminho 51" d="M804.972,494.006H690.729a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74H804.972a7.543,7.543,0,0,1,7.324,7.74v25.736a7.54,7.54,0,0,1-7.324,7.737" fill="#fff"/>
+      <g id="Grupo_72" data-name="Grupo 72">
+        <g id="Grupo_71" data-name="Grupo 71" clip-path="url(#clip-path-36)">
+          <rect id="Retângulo_36" data-name="Retângulo 36" width="126.827" height="39.471" transform="translate(683.995 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PRAD" transform="translate(730.772 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PRAD</tspan></text>
+      <text id="PR-7" data-name="PR" transform="translate(697.313 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-5" data-name="Ó-REIT" transform="translate(704.849 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_ADMINISTRA" data-name="ORIA DE ADMINISTRA" transform="translate(724.297 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE ADMINISTRA</tspan></text>
+      <text id="ÇÃ-3" data-name="ÇÃ" transform="translate(785.822 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÇÃ</tspan></text>
+      <text id="O-4" data-name="O" transform="translate(793.645 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <g id="Grupo_74" data-name="Grupo 74">
+        <g id="Grupo_73" data-name="Grupo 73" clip-path="url(#clip-path-37)">
+          <rect id="Retângulo_37" data-name="Retângulo 37" width="127.417" height="40.322" transform="translate(832.452 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_54" data-name="Caminho 54" d="M954.019,494.006H839.777a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74H954.019a7.543,7.543,0,0,1,7.325,7.74v25.736a7.54,7.54,0,0,1-7.325,7.737" fill="#fff"/>
+      <g id="Grupo_76" data-name="Grupo 76">
+        <g id="Grupo_75" data-name="Grupo 75" clip-path="url(#clip-path-38)">
+          <rect id="Retângulo_38" data-name="Retângulo 38" width="126.827" height="39.471" transform="translate(833.042 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PGF" transform="translate(884.772 472.988)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PGF</tspan></text>
+      <text id="PR-8" data-name="PR" transform="translate(841.258 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-6" data-name="Ó-REIT" transform="translate(848.794 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_GEST" data-name="ORIA DE GEST" transform="translate(868.242 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE GEST</tspan></text>
+      <text id="Ã" transform="translate(907.564 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ã</tspan></text>
+      <text id="O_FINANCEIRA" data-name="O FINANCEIRA" transform="translate(911.453 486.149)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O FINANCEIRA</tspan></text>
+      <g id="Grupo_78" data-name="Grupo 78">
+        <g id="Grupo_77" data-name="Grupo 77" clip-path="url(#clip-path-39)">
+          <rect id="Retângulo_39" data-name="Retângulo 39" width="127.417" height="40.322" transform="translate(981.5 459.651)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_57" data-name="Caminho 57" d="M1103.067,494.006H988.825a7.54,7.54,0,0,1-7.325-7.737V460.533a7.543,7.543,0,0,1,7.325-7.74h114.242a7.543,7.543,0,0,1,7.325,7.74v25.736a7.54,7.54,0,0,1-7.325,7.737" fill="#fff"/>
+      <g id="Grupo_80" data-name="Grupo 80">
+        <g id="Grupo_79" data-name="Grupo 79" clip-path="url(#clip-path-40)">
+          <rect id="Retângulo_40" data-name="Retângulo 40" width="126.827" height="39.471" transform="translate(982.09 454.55)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <text id="PRPTI" transform="translate(1027.953 471.481)" fill="#17100d" font-size="13.437" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PRPTI</tspan></text>
+      <text id="PR-9" data-name="PR" transform="translate(994.562 482.576)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">PR</tspan></text>
+      <text id="Ó-REIT-7" data-name="Ó-REIT" transform="translate(1002.099 482.576)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">Ó-REIT</tspan></text>
+      <text id="ORIA_DE_PLANEJAMENT" data-name="ORIA DE PLANEJAMENT" transform="translate(1021.546 482.576)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ORIA DE PLANEJAMENT</tspan></text>
+      <text id="O_E_" data-name="O E " transform="translate(1087.967 482.576)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O E </tspan></text>
+      <text id="TECNOL" transform="translate(1001.968 490.12)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">TECNOL</tspan></text>
+      <text id="OGIA_D" data-name="OGIA D" transform="translate(1024.713 490.12)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OGIA D</tspan></text>
+      <text id="A_INFORMA" data-name="A INFORMA" transform="translate(1045.159 490.12)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A INFORMA</tspan></text>
+      <text id="ÇÃ-4" data-name="ÇÃ" transform="translate(1077.517 490.12)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÇÃ</tspan></text>
+      <text id="O-5" data-name="O" transform="translate(1085.34 490.12)" fill="#17100d" font-size="6.366" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <g id="Grupo_82" data-name="Grupo 82">
+        <g id="Grupo_81" data-name="Grupo 81" clip-path="url(#clip-path-41)">
+          <rect id="Retângulo_41" data-name="Retângulo 41" width="126.641" height="40.077" transform="translate(206.705 556.822)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_60" data-name="Caminho 60" d="M327.531,590.968H213.985a7.494,7.494,0,0,1-7.28-7.69V557.7a7.5,7.5,0,0,1,7.28-7.693H327.531a7.5,7.5,0,0,1,7.28,7.693v25.579a7.493,7.493,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_84" data-name="Grupo 84">
+        <g id="Grupo_83" data-name="Grupo 83" clip-path="url(#clip-path-42)">
+          <rect id="Retângulo_42" data-name="Retângulo 42" width="126.054" height="39.23" transform="translate(207.292 551.752)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-7" data-name="CAMPUS UNIVERSIT" transform="translate(214.524 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_7" data-name="ÁRIO " transform="translate(304.089 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_AL" data-name="DE AL" transform="translate(228.416 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE AL</tspan></text>
+      <text id="T" transform="translate(253.588 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+      <text id="A_FL" data-name="A FL" transform="translate(258.622 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A FL</tspan></text>
+      <text id="OREST" transform="translate(277.118 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OREST</tspan></text>
+      <text id="A-2" data-name="A" transform="translate(306.646 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <g id="Grupo_86" data-name="Grupo 86">
+        <g id="Grupo_85" data-name="Grupo 85" clip-path="url(#clip-path-43)">
+          <rect id="Retângulo_43" data-name="Retângulo 43" width="126.641" height="40.077" transform="translate(354.844 556.822)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_63" data-name="Caminho 63" d="M475.671,590.968H362.124a7.494,7.494,0,0,1-7.28-7.69V557.7a7.5,7.5,0,0,1,7.28-7.693H475.671a7.5,7.5,0,0,1,7.28,7.693v25.579a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_88" data-name="Grupo 88">
+        <g id="Grupo_87" data-name="Grupo 87" clip-path="url(#clip-path-44)">
+          <rect id="Retângulo_44" data-name="Retângulo 44" width="126.054" height="39.23" transform="translate(355.431 551.752)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-8" data-name="CAMPUS UNIVERSIT" transform="translate(362.663 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_8" data-name="ÁRIO " transform="translate(452.229 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_AL-2" data-name="DE AL" transform="translate(374.748 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE AL</tspan></text>
+      <text id="T-2" data-name="T" transform="translate(399.92 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+      <text id="O_ARA" data-name="O ARA" transform="translate(405.278 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">O ARA</tspan></text>
+      <text id="GUAIA-2" data-name="GUAIA" transform="translate(433.68 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">GUAIA</tspan></text>
+      <g id="Grupo_90" data-name="Grupo 90">
+        <g id="Grupo_89" data-name="Grupo 89" clip-path="url(#clip-path-45)">
+          <rect id="Retângulo_45" data-name="Retângulo 45" width="126.641" height="40.077" transform="translate(501.447 556.822)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_66" data-name="Caminho 66" d="M622.273,590.968H508.727a7.493,7.493,0,0,1-7.28-7.69V557.7a7.5,7.5,0,0,1,7.28-7.693H622.273a7.5,7.5,0,0,1,7.28,7.693v25.579a7.493,7.493,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_92" data-name="Grupo 92">
+        <g id="Grupo_91" data-name="Grupo 91" clip-path="url(#clip-path-46)">
+          <rect id="Retângulo_46" data-name="Retângulo 46" width="126.054" height="39.23" transform="translate(502.033 551.752)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-9" data-name="CAMPUS UNIVERSIT" transform="translate(509.266 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_9" data-name="ÁRIO " transform="translate(598.83 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_BARRA_DO_BUGRES" data-name="DE BARRA DO BUGRES" transform="translate(514.585 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE BARRA DO BUGRES</tspan></text>
+      <g id="Grupo_94" data-name="Grupo 94">
+        <g id="Grupo_93" data-name="Grupo 93" clip-path="url(#clip-path-47)">
+          <rect id="Retângulo_47" data-name="Retângulo 47" width="126.641" height="40.077" transform="translate(659.117 556.822)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_69" data-name="Caminho 69" d="M779.944,590.968H666.4a7.494,7.494,0,0,1-7.281-7.69V557.7a7.5,7.5,0,0,1,7.281-7.693H779.944a7.5,7.5,0,0,1,7.28,7.693v25.579a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_96" data-name="Grupo 96">
+        <g id="Grupo_95" data-name="Grupo 95" clip-path="url(#clip-path-48)">
+          <rect id="Retângulo_48" data-name="Retângulo 48" width="126.054" height="39.23" transform="translate(659.704 551.752)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-10" data-name="CAMPUS UNIVERSIT" transform="translate(666.936 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_10" data-name="ÁRIO " transform="translate(756.502 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_CÁ" data-name="DE CÁ" transform="translate(695.203 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE CÁ</tspan></text>
+      <text id="CERES" transform="translate(722.35 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CERES</tspan></text>
+      <g id="Grupo_98" data-name="Grupo 98">
+        <g id="Grupo_97" data-name="Grupo 97" clip-path="url(#clip-path-49)">
+          <rect id="Retângulo_49" data-name="Retângulo 49" width="126.641" height="40.077" transform="translate(807.257 556.822)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_72" data-name="Caminho 72" d="M928.084,590.968H814.537a7.494,7.494,0,0,1-7.28-7.69V557.7a7.5,7.5,0,0,1,7.28-7.693H928.084a7.5,7.5,0,0,1,7.28,7.693v25.579a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_100" data-name="Grupo 100">
+        <g id="Grupo_99" data-name="Grupo 99" clip-path="url(#clip-path-50)">
+          <rect id="Retângulo_50" data-name="Retângulo 50" width="126.054" height="39.23" transform="translate(807.844 551.752)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-11" data-name="CAMPUS UNIVERSIT" transform="translate(815.076 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_11" data-name="ÁRIO " transform="translate(904.641 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_C" data-name="DE C" transform="translate(844.021 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE C</tspan></text>
+      <text id="OLÍDER" transform="translate(864.675 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">OLÍDER</tspan></text>
+      <g id="Grupo_102" data-name="Grupo 102">
+        <g id="Grupo_101" data-name="Grupo 101" clip-path="url(#clip-path-51)">
+          <rect id="Retângulo_51" data-name="Retângulo 51" width="126.641" height="40.077" transform="translate(140.954 648.358)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_75" data-name="Caminho 75" d="M261.78,682.505H148.234a7.494,7.494,0,0,1-7.28-7.69v-25.58a7.5,7.5,0,0,1,7.28-7.692H261.78a7.5,7.5,0,0,1,7.28,7.692v25.58a7.494,7.494,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_104" data-name="Grupo 104">
+        <g id="Grupo_103" data-name="Grupo 103" clip-path="url(#clip-path-52)">
+          <rect id="Retângulo_52" data-name="Retângulo 52" width="126.054" height="39.23" transform="translate(141.54 643.289)" fill="url(#linear-gradient-22)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-12" data-name="CAMPUS UNIVERSIT" transform="translate(148.772 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_12" data-name="ÁRIO " transform="translate(238.338 661.98)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_JUARA" data-name="DE JUARA" transform="translate(182.636 674.66)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE JUARA</tspan></text>
+      <g id="Grupo_106" data-name="Grupo 106">
+        <g id="Grupo_105" data-name="Grupo 105" clip-path="url(#clip-path-53)">
+          <rect id="Retângulo_53" data-name="Retângulo 53" width="126.641" height="40.077" transform="translate(955.397 556.821)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Caminho_78" data-name="Caminho 78" d="M1076.223,590.968H962.677a7.494,7.494,0,0,1-7.28-7.69V557.7a7.5,7.5,0,0,1,7.28-7.693h113.546a7.5,7.5,0,0,1,7.28,7.693v25.579a7.493,7.493,0,0,1-7.28,7.69" fill="#fff"/>
+      <g id="Grupo_108" data-name="Grupo 108">
+        <g id="Grupo_107" data-name="Grupo 107" clip-path="url(#clip-path-54)">
+          <rect id="Retângulo_54" data-name="Retângulo 54" width="126.054" height="39.23" transform="translate(955.983 551.752)" fill="url(#linear-gradient-52)"/>
+        </g>
+      </g>
+      <text id="CAMPUS_UNIVERSIT-13" data-name="CAMPUS UNIVERSIT" transform="translate(963.215 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">CAMPUS UNIVERSIT</tspan></text>
+      <text id="ÁRIO_13" data-name="ÁRIO " transform="translate(1052.781 570.444)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">ÁRIO </tspan></text>
+      <text id="DE_DIAMANTINO" data-name="DE DIAMANTINO" transform="translate(981.747 583.123)" fill="#17100d" font-size="10.13" font-family="Aller-Bold, Aller" font-weight="700"><tspan x="0" y="0">DE DIAMANTINO</tspan></text>
+    </g>
+    <g id="Grupo_110" data-name="Grupo 110">
+      <rect id="Retângulo_55" data-name="Retângulo 55" width="19.188" height="17.636" transform="translate(301.027 736.367)" fill="#001c3a"/>
+      <text id="FUNÇ" transform="translate(325.444 748.57)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">FUNÇ</tspan></text>
+      <text id="ÕES_OCUP" data-name="ÕES OCUP" transform="translate(348.339 748.57)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">ÕES OCUP</tspan></text>
+      <text id="AD" transform="translate(391.083 748.57)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">AD</tspan></text>
+      <text id="AS_POR_SER" data-name="AS POR SER" transform="translate(403.137 748.57)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">AS POR SER</tspan></text>
+      <text id="VIDORES_DOCENTES" data-name="VIDORES DOCENTES" transform="translate(451.671 748.57)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">VIDORES DOCENTES</tspan></text>
+    </g>
+    <g id="Grupo_111" data-name="Grupo 111">
+      <rect id="Retângulo_56" data-name="Retângulo 56" width="19.488" height="17.637" transform="translate(610.679 736.367)" fill="#f18a00"/>
+      <text id="FUNÇ-2" data-name="FUNÇ" transform="translate(635.396 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">FUNÇ</tspan></text>
+      <text id="ÕES_OCUP-2" data-name="ÕES OCUP" transform="translate(658.29 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">ÕES OCUP</tspan></text>
+      <text id="AD-2" data-name="AD" transform="translate(701.034 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">AD</tspan></text>
+      <text id="AS_EX" data-name="AS EX" transform="translate(713.088 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">AS EX</tspan></text>
+      <text id="CL" transform="translate(736.646 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">CL</tspan></text>
+      <text id="USIV" transform="translate(746.804 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">USIV</tspan></text>
+      <text id="AMENTE_POR_PR" data-name="AMENTE POR PR" transform="translate(766.242 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">AMENTE POR PR</tspan></text>
+      <text id="OFIS" transform="translate(833.703 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">OFIS</tspan></text>
+      <text id="SIONAIS_TÉCNIC" data-name="SIONAIS TÉCNIC" transform="translate(852.648 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">SIONAIS TÉCNIC</tspan></text>
+      <text id="OS" transform="translate(919.324 748.112)" fill="#17100d" font-size="9.338" font-family="Aller"><tspan x="0" y="0">OS</tspan></text>
+    </g>
+    <g id="Grupo_114" data-name="Grupo 114">
+      <g id="Grupo_112" data-name="Grupo 112">
+        <text id="ESTRUTURA" transform="translate(303.06 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ESTRUTURA</tspan></text>
+        <text id="_ORGANIZACIONAL" data-name=" ORGANIZACIONAL" transform="translate(341.313 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> ORGANIZACIONAL</tspan></text>
+        <text id="_DEFINIDA" data-name=" DEFINIDA" transform="translate(400.138 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> DEFINIDA</tspan></text>
+        <text id="_PELA" data-name=" PELA" transform="translate(431.109 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> PELA</tspan></text>
+        <text id="_RESOLUÇÃO_005_2019_-_" data-name=" RESOLUÇÃO 005/2019 - " transform="translate(449.256 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> RESOLUÇÃO 005/2019 - </tspan></text>
+        <text id="AD_REFERENDUM_" data-name="AD REFERENDUM " transform="translate(524.174 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldItalicMT, Arial" font-weight="700" font-style="italic"><tspan x="0" y="0">AD REFERENDUM </tspan></text>
+        <text id="DO_CONSUNI" data-name="DO CONSUNI" transform="translate(580.69 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">DO CONSUNI</tspan></text>
+      </g>
+      <g id="Grupo_113" data-name="Grupo 113">
+        <text id="PUBLICADA" transform="translate(636.362 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">PUBLICADA</tspan></text>
+        <text id="_EM_29_DE_MARÇO_DE_2019_HOMOLOGADA" data-name=" EM 29 DE MARÇO DE 2019, HOMOLOGADA" transform="translate(672.881 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> EM 29 DE MARÇO DE 2019, HOMOLOGADA</tspan></text>
+        <text id="_PELA-2" data-name=" PELA" transform="translate(804.075 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> PELA</tspan></text>
+        <text id="_RESOLUÇÃO_N_008_2019-CONSUNI." data-name=" RESOLUÇÃO Nº 008/2019-CONSUNI." transform="translate(822.222 776.11)" fill="#17100d" font-size="6.241" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> RESOLUÇÃO Nº 008/2019-CONSUNI.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
